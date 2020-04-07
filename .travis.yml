@@ -1,13 +1,5 @@
-{
-  "language": "php",
-  "os": [
-    "linux"
-  ],
-  "dist": "xenial",
-  "php": [
-    "7.3.14"
-  ],
-  "script": [
-    "./assignment9.php"
-  ]
-}
+language: php
+php:
+  - 7.3.14
+script:
+  - ./assignment9
