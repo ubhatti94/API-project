@@ -1,6 +1,9 @@
-language: php
+language: php html
+
 php:
   - 7.3.14
+html:
+  - 5.0
 before_script:
   - chmod +x ./assignment9.php
 script:
