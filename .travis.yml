@@ -1,4 +1,4 @@
-language: php html
+language: php html css
 
 php:
   - 7.3.14
